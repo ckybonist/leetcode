@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java,Golang,Kotlin
-Update time:  2019-04-08 20:35:53
+Update time:  2019-04-09 01:01:56
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **5   /   973** problems
+I have solved **7   /   973** problems
 while there are **140** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -85,7 +85,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |67|[add-binary](https://leetcode.com/problems/add-binary)|||Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)|||Easy|
-|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)||[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
+|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[Golang](https://github.com/ckybonist/leetcode/blob/master/solutions/0070-climbing-stairs/climbing-stairs.go)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)|||Medium|
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)||[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
@@ -936,7 +936,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1010|[powerful-integers](https://leetcode.com/problems/powerful-integers)||[:memo:](https://leetcode.com/articles/powerful-integers/)|Easy|
 |1011|[flip-binary-tree-to-match-preorder-traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal)||[:memo:](https://leetcode.com/articles/flip-binary-tree-to-match-preorder-traversal/)|Medium|
 |1012|[equal-rational-numbers](https://leetcode.com/problems/equal-rational-numbers)||[:memo:](https://leetcode.com/articles/equal-rational-numbers/)|Hard|
-|1013|[fibonacci-number](https://leetcode.com/problems/fibonacci-number)|||Easy|
+|1013|[fibonacci-number](https://leetcode.com/problems/fibonacci-number)|[Golang](https://github.com/ckybonist/leetcode/blob/master/solutions/1013-fibonacci-number/fibonacci-number.go)||Easy|
 |1014|[k-closest-points-to-origin](https://leetcode.com/problems/k-closest-points-to-origin)||[:memo:](https://leetcode.com/articles/k-closest-points-to-origin/)|Medium|
 |1016|[subarray-sums-divisible-by-k](https://leetcode.com/problems/subarray-sums-divisible-by-k)||[:memo:](https://leetcode.com/articles/subarray-sums-divisible-by-k/)|Medium|
 |1017|[odd-even-jump](https://leetcode.com/problems/odd-even-jump)||[:memo:](https://leetcode.com/articles/odd-even-jump/)|Hard|
