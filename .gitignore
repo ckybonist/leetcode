@@ -1,1 +1,10 @@
 config.cfg
+
+old/
+cookies.json
+log/
+*.err
+
+.vscode/
+*.out
+.envrc
