@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Java,Golang,Kotlin
-Update time:  2019-05-19 18:14:07
+Update time:  2019-05-19 21:38:28
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
