@@ -627,3 +627,4 @@ if __name__ == '__main__':
     while True:
         do_job(leetcode)
         time.sleep(15)
+        sys.exit(0)
